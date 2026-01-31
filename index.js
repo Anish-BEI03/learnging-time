@@ -28,12 +28,3 @@ module.exports = {
     sayAge,
     sayDOB
 };
-module.exports = {
-    add,
-    subtract,
-    multiply,
-    divide
-};
-
-
-
