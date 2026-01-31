@@ -51,4 +51,9 @@ module.exports = {
     multiply,
     divide
 };
-
+//feature detection functions
+function newfeature() {
+    console.log("This is a new feature ");
+    console.log ("This is a new feature A");
+    console.log ("This is a new feature B");
+}
