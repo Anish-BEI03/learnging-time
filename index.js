@@ -8,9 +8,7 @@ if (age >= 18) {
 const name = "Alice";
 const age = 30;
 const dob = '10/15/1993';
-
 function sayName(){
-<<<<<<< HEAD
     console.log("My name is " + name1);
 
 }
@@ -35,7 +33,3 @@ module.exports = {
     multiply,
     divide
 };
-=======
-    console.log("My name is " + name);
-}
->>>>>>> parent of df5f933 (done)
